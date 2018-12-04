@@ -18,10 +18,19 @@ h1{
 }
 
 h3 {
-	font-size: 100px;
+	font-size: 60px;
 	color: red;
 	position: absolute;
 	top: 60%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+h5 {
+	font-size: 40px;
+	color: blue;
+	position: absolute;
+	top: 70%;
 	left: 50%;
 	transform: translate(-50%,-50%);
 }
